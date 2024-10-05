@@ -1,0 +1,45 @@
+h2{
+    color: brown;
+    text-align: center;
+    font-style: oblique;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 12px;
+}
+p{
+    color: blue;
+border: 2px solid red;
+background-color: yellow;
+
+}
+table,th,td{
+    border: 2px double black;
+    width: 45%;
+    background-color: greenyellow;
+    text-align: center;
+    margin-left: 34%;
+    
+}
+img{
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 10px;
+    width:50%;
+    height:50%;
+}    
+li{
+    list-style-type: square;
+}
+.headingClass{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk2Mh07S4DV3T4HHM29Eew3_BRWDn0Z-5hQ&s"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 14px;
+    font-style: inherit;
+border-style: dotted;
+margin: 20px 90px 70px 80px;
+padding: 40px 10px 170px 80px;
+color: white;
+}
